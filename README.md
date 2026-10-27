@@ -1,4 +1,4 @@
-#💈 Barber Flow
+#💈 Barber Flow - USUÁRIO
 
 ### Seu estilo, seu horário, suas recompensas.
 
