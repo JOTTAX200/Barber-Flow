@@ -1,0 +1,15 @@
+BARBER FLOW - versão com logo na tela inicial
+
+Arquivos:
+- main.py: código do sistema
+- logo.png: logo usada na tela inicial
+- requirements.txt: dependência para imagens
+
+Como executar no VS Code:
+1. Extraia todos os arquivos para a mesma pasta.
+2. Abra a pasta no VS Code.
+3. No terminal, execute: python -m pip install -r requirements.txt
+4. Execute: python main.py
+
+Importante: mantenha logo.png na mesma pasta que main.py.
+Os agendamentos continuam sendo salvos em agenda.json na pasta do programa.
