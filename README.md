@@ -25,7 +25,7 @@ Mais do que marcar horários, a proposta é tornar cada visita parte de uma expe
 
 - **Python** — desenvolvimento da lógica da aplicação.
 - **Tkinter / CustomTkinter** — construção da interface gráfica, conforme a implementação utilizada.
-- **SQLite ou JSON** — armazenamento de dados, conforme os módulos implementados no projeto.
+- **JSON** — armazenamento de dados, conforme os módulos implementados no projeto.
 - **Pillow** — carregamento e exibição de imagens na interface.
 
 ## 🚀 Proposta de valor
